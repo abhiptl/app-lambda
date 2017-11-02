@@ -1,0 +1,14 @@
+{
+  "name": "app-lambda",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.133.0",
+    "nodemailer": "^4.2.0",
+    "promise-mysql": "^3.1.1",
+    "uniquid": "^1.1.4"
+  }
+}

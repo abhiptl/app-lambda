@@ -1,0 +1,14 @@
+# Log files
+*.log
+
+# Node dependencies
+node_modules
+
+# Intellij IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# OSX Preferences
+.DS_STORE
